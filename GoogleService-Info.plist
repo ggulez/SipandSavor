@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>15577003333-ha0skdeu8c11c5ieanal5lare5lqdars.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.15577003333-ha0skdeu8c11c5ieanal5lare5lqdars</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkTEVvzJLsrH1ULavzvyhuEnB2yeiDjQA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>15577003333</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>FaultyDream.Sip---Savor</string>
+	<key>PROJECT_ID</key>
+	<string>sip-and-savor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sip-and-savor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:15577003333:ios:9bf0d5631cf3f0a3a6fa2c</string>
+</dict>
+</plist>
